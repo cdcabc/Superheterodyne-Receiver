@@ -11,32 +11,15 @@
             "id": "c4d05a375688ee1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Superheterodyne Receiver/Superheterodyne Receiver.md",
-                "mode": "source",
-                "source": false
+                "file": "Superheterodyne Receiver/Pictures folder/Pasted image 20250423223926.png"
               },
-              "icon": "lucide-file",
-              "title": "Superheterodyne Receiver"
-            }
-          },
-          {
-            "id": "1d118b052e3a8685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to use gitbash.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to use gitbash"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250423223926"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to use gitbash.md",
+                "file": "Superheterodyne Receiver/Superheterodyne Receiver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to use gitbash"
+              "title": "Backlinks for Superheterodyne Receiver"
             }
           },
           {
@@ -128,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to use gitbash.md",
+                "file": "Superheterodyne Receiver/Superheterodyne Receiver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How to use gitbash"
+              "title": "Outgoing links from Superheterodyne Receiver"
             }
           },
           {
@@ -157,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to use gitbash.md",
+                "file": "Superheterodyne Receiver/Superheterodyne Receiver.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to use gitbash"
+              "title": "Outline of Superheterodyne Receiver"
             }
           }
         ]
@@ -183,21 +166,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d118b052e3a8685",
+  "active": "c3ad9bd4dc1caabd",
   "lastOpenFiles": [
-    "Pasted image 20250424002801.png",
-    "Pasted image 20250424002719.png",
-    "Pasted image 20250424002527.png",
-    "Pasted image 20250424002405.png",
-    "Pasted image 20250424002254.png",
-    "Pasted image 20250424002251.png",
-    "Pasted image 20250424002001.png",
+    "Superheterodyne Receiver/Components/Audio Amplifier.md",
+    "Altium Project/Receiver Rough Draft/__Previews/Superheterodyne Rough Draft.SchDocPreview",
+    "Altium Project/Receiver Rough Draft/__Previews",
+    "Altium Project/Receiver Rough Draft/History/Superheterodyne Rough Draft.~(9).SchDoc.Zip",
+    "Altium Project/Receiver Rough Draft/History/Superheterodyne Rough Draft.~(8).SchDoc.Zip",
+    "Altium Project/Receiver Rough Draft/History/Superheterodyne Rough Draft.~(7).SchDoc.Zip",
+    "Altium Project/Receiver Rough Draft/History/Superheterodyne Rough Draft.~(6).SchDoc.Zip",
+    "Altium Project/Receiver Rough Draft/History/Superheterodyne Rough Draft.~(5).SchDoc.Zip",
+    "Altium Project/Receiver Rough Draft/History/Superheterodyne Rough Draft.~(4).SchDoc.Zip",
+    "Altium Project/Receiver Rough Draft/History/Superheterodyne Rough Draft.~(3).SchDoc.Zip",
+    "Altium Project/Receiver Rough Draft/History/Superheterodyne Rough Draft.~(13).SchDoc.Zip",
+    "Superheterodyne Receiver/Components/Demodulator.md",
+    "Superheterodyne Receiver/Components/IF Amplfier.md",
+    "Superheterodyne Receiver/Components/IF Filter.md",
+    "Superheterodyne Receiver/Components/Local Oscillator.md",
+    "Superheterodyne Receiver/Components/Mixer.md",
+    "Superheterodyne Receiver/Components/RF Amplifier (optional).md",
+    "Superheterodyne Receiver/Components/RF Filter.md",
     "Superheterodyne Receiver/Superheterodyne Receiver.md",
     "How to use gitbash.md",
+    "Superheterodyne Receiver/Pictures folder/Pasted image 20250424002251.png",
+    "Superheterodyne Receiver/Pictures folder/Pasted image 20250424002254.png",
+    "Superheterodyne Receiver/Pictures folder/Pasted image 20250424002001.png",
     "Superheterodyne Receiver/Pictures folder/Pasted image 20250424001304.png",
+    "Superheterodyne Receiver/Pictures folder/Pasted image 20250424002405.png",
+    "Superheterodyne Receiver/Pictures folder/Pasted image 20250424002527.png",
+    "Superheterodyne Receiver/Pictures folder/Pasted image 20250424002719.png",
+    "Superheterodyne Receiver/Pictures folder/Pasted image 20250424002801.png",
     "Superheterodyne Receiver/Pictures folder/Pasted image 20250424001142.png",
     "Superheterodyne Receiver/Pictures folder/Pasted image 20250423223926.png",
-    "Superheterodyne Receiver/Pictures folder/Pasted image 20250423230827.png",
     "Superheterodyne Receiver.md"
   ]
 }
