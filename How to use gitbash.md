@@ -40,6 +40,19 @@ Type git status and it will display all the changes you have made:
 
 
 Next if you want add all changes type git add --all:
+![[Pasted image 20250424002405.png]]
+After doing this, retyping git status will display all the files you have staged for commit to be green text
+
+Next you will want to commit them to the repo:
+![[Pasted image 20250424002527.png]]
+In the above git commit -m "" will allow you to push the notes with a message. The message is just nice to have since it will allow us to look back and see if something broke at this point (Imagining more for code than notes here tbh)
+
+After this step you will want to type git push:
+![[Pasted image 20250424002719.png]]
+
+Next check the github to make sure that it all pushed correctly (Mostly just looking at the time stamp tbh):
+![[Pasted image 20250424002801.png]]
+
 
 
 
