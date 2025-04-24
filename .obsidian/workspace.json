@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "eb7ab5066930f5c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dd049dfcee2570b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4d05a375688ee1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Superheterodyne Receiver/Superheterodyne Receiver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Superheterodyne Receiver"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cd0f89368cb0e30",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bdedd1d5734d6f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3ad9bd4dc1caabd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "42e2842c4be17bb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5fc9e59e6c97d485",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3cf7b8860403cc6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8824ab246618ce2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d58726ae027a30b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Superheterodyne Receiver/Superheterodyne Receiver.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Superheterodyne Receiver"
+            }
+          },
+          {
+            "id": "1f8342308e7d8e1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Superheterodyne Receiver/Superheterodyne Receiver.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Superheterodyne Receiver"
+            }
+          },
+          {
+            "id": "e4d3ba24c5bde25e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ef602e8f700f99d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Superheterodyne Receiver/Superheterodyne Receiver.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Superheterodyne Receiver"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c3ad9bd4dc1caabd",
+  "lastOpenFiles": [
+    "Superheterodyne Receiver.md",
+    "Superheterodyne Receiver/Superheterodyne Receiver.md",
+    "Pictures folder/Pasted image 20250423223926 1.png",
+    "Pictures folder/Pasted image 20250423223926.png",
+    "Pictures folder/Pasted image 20250423230827.png"
+  ]
+}
