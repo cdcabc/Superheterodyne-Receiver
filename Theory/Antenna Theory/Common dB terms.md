@@ -1,0 +1,10 @@
+
+| Term           | Full Form                               | Unit Type      | Represents                                                         | Used In                                     | Notes                                                       |
+| -------------- | --------------------------------------- | -------------- | ------------------------------------------------------------------ | ------------------------------------------- | ----------------------------------------------------------- |
+| **dBi**        | Decibels relative to isotropic          | Relative gain  | Antenna gain compared to an ideal isotropic radiator               | Antenna specs (e.g. directional gain)       | Higher dBi = more focused radiation pattern (narrower beam) |
+| **dBd**        | Decibels relative to dipole             | Relative gain  | Antenna gain compared to a dipole antenna                          | Occasionally in antenna gain specs          | 0 dBd = 2.15 dBi (dipole antennas have ~2.15 dBi gain)      |
+| **dBm**        | Decibels relative to 1 milliwatt        | Absolute power | Power level of RF signals                                          | Transmitter/receiver power, signal strength | 0 dBm = 1 mW; used for input/output power, not gain         |
+| **dBW**        | Decibels relative to 1 watt             | Absolute power | Power level referenced to 1 W                                      | High-power transmitters                     | 0 dBW = 30 dBm                                              |
+| **ERP (dBm)**  | Effective Radiated Power                | Absolute power | Power radiated from an antenna referenced to a dipole              | Regulatory specs, broadcast stations        | ERP (in dBm) = Transmit Power + Gain (dBd) - Losses         |
+| **EIRP (dBm)** | Equivalent Isotropically Radiated Power | Absolute power | Power radiated from an antenna referenced to an isotropic radiator | Wi-Fi, satellite, and regulatory limits     | EIRP (in dBm) = Transmit Power + Gain (dBi) - Losses        |
+
