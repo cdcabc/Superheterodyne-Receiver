@@ -4,151 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7dd049dfcee2570b",
+        "id": "3b31ee68b4c4c0f3",
         "type": "tabs",
         "children": [
           {
-            "id": "c4d05a375688ee1f",
+            "id": "373707d2248de7a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Superheterodyne Receiver/Superheterodyne Receiver.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Superheterodyne Receiver"
-            }
-          },
-          {
-            "id": "a752ae1286577fe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Antenna Theory/Common dB terms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Common dB terms"
-            }
-          },
-          {
-            "id": "1983c70e320d1cf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Antenna Theory/Isotropic Antenna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isotropic Antenna"
-            }
-          },
-          {
-            "id": "8bb4db6d1e3f6096",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Gitbash/How to use gitbash.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to use gitbash"
-            }
-          },
-          {
-            "id": "60196bfeee5723d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/What is RF (Radio Frequency).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is RF (Radio Frequency)"
-            }
-          },
-          {
-            "id": "6fbd8cda47288686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Antenna Theory/Dipole Antenna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dipole Antenna"
-            }
-          },
-          {
-            "id": "b934f4f1ff579d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Antenna Theory/Dipole Antenna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dipole Antenna"
-            }
-          },
-          {
-            "id": "f55ee4d3452ce2cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Antenna Theory/Dipole Antenna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dipole Antenna"
-            }
-          },
-          {
-            "id": "94800de5aa6643cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Antenna Theory/Different Types of Antennas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Different Types of Antennas"
-            }
-          },
-          {
-            "id": "a7744cad704d3b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Antenna Theory/Monopole Antenna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Monopole Antenna"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,26 +164,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7744cad704d3b17",
+  "active": "c3ad9bd4dc1caabd",
   "lastOpenFiles": [
-    "Theory/Antenna Theory/Isotropic Antenna.md",
+    "Documentation/Ansys/Course Provided for Transmission Lines/~$Transmission Line Theory AER.tmp",
+    "Documentation/Ansys/Course Provided for Transmission Lines/TransmissionLines_plus_quiz.aedtz",
+    "Documentation/Ansys/Course Provided for Transmission Lines/Transmission Line Theory AER.pptx",
+    "Documentation/Ansys/Course Provided for Transmission Lines",
     "Theory/Antenna Theory/Dipole Antenna.md",
     "Theory/Antenna Theory/Different Types of Antennas.md",
-    "Theory/Antenna Theory/Common dB terms.md",
-    "Theory/Antenna Theory/Monopole Antenna.md",
-    "Theory/FM vs AM Radio.md",
     "Theory/What is RF (Radio Frequency).md",
+    "Documentation/Gitbash/How to use gitbash.md",
+    "Theory/Antenna Theory/Isotropic Antenna.md",
+    "Theory/Antenna Theory/Common dB terms.md",
+    "Superheterodyne Receiver/Superheterodyne Receiver.md",
+    "Theory/Antenna Theory/Monopole Antenna.md",
+    "Theory/Antenna Theory/Polarization.md",
+    "Theory/Antenna Theory/Resonance.md",
+    "Theory/FM vs AM Radio.md",
     "Pictures folder/Pasted image 20250424235139.png",
     "Pictures folder/Pasted image 20250424235045.png",
     "Isotropic Antenna.md",
-    "Theory/Antenna Theory/Resonance.md",
-    "Theory/Antenna Theory/Polarization.md",
     "Pictures folder/Pasted image 20250424232234.png",
     "Pictures folder/Pasted image 20250424231249.png",
     "Pictures folder/Pasted image 20250424231053.png",
     "README.md",
     "Theory",
-    "Documentation/Gitbash/How to use gitbash.md",
     "Documentation/Advanced Design System (ADS)",
     "Analysis",
     "Documentation/Ansys",
@@ -323,13 +197,9 @@
     "Pictures folder/Pasted image 20250424195004.png",
     "Documentation",
     "Pictures folder/Pasted image 20250424195054.png",
-    "Theory/Antenna Theory",
-    "Superheterodyne Receiver/Superheterodyne Receiver.md",
     "Superheterodyne Receiver/Components/Local Oscillator.md",
     "Pictures folder/Pasted image 20250423223926.png",
     "Superheterodyne Receiver/Components/Audio Amplifier.md",
-    "Altium Project/Receiver Rough Draft/__Previews/Superheterodyne Rough Draft.SchDocPreview",
-    "Altium Project/Receiver Rough Draft/__Previews",
     "Superheterodyne Receiver/Components/Demodulator.md",
     "Superheterodyne Receiver/Components/IF Amplfier.md",
     "Superheterodyne Receiver/Components/IF Filter.md",
