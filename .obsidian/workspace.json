@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Gitbash/How to use gitbash.md",
+                "file": "Superheterodyne Receiver/Components/Mixer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to use gitbash"
+              "title": "Mixer"
             }
           }
         ]
@@ -170,16 +170,19 @@
   },
   "active": "c4d05a375688ee1f",
   "lastOpenFiles": [
-    "Superheterodyne Receiver/Components/RF Filter.md",
-    "Superheterodyne Receiver/Components/RF Amplifier (optional).md",
-    "Superheterodyne Receiver/Components/IF Amplfier.md",
-    "Superheterodyne Receiver/Components/IF Filter.md",
     "Superheterodyne Receiver/Components/Local Oscillator.md",
-    "Superheterodyne Receiver/Components/Mixer.md",
-    "Theory/FM vs AM Radio.md",
-    "Theory/What is RF (Radio Frequency).md",
+    "Superheterodyne Receiver/Components/IF Filter.md",
+    "Superheterodyne Receiver/Components/IF Amplfier.md",
     "Superheterodyne Receiver/Components/Demodulator.md",
     "Superheterodyne Receiver/Components/Audio Amplifier.md",
+    "Superheterodyne Receiver/Components/RF Filter.md",
+    "Superheterodyne Receiver/Superheterodyne Receiver.md",
+    "Superheterodyne Receiver/Components/RF Amplifier (optional).md",
+    "Superheterodyne Receiver/Components/Mixer.md",
+    "Theory/Antenna Theory/Common dB terms.md",
+    "Documentation/Gitbash/How to use gitbash.md",
+    "Theory/FM vs AM Radio.md",
+    "Theory/What is RF (Radio Frequency).md",
     "Intermediate Frequency filter.md",
     "Theory/Antenna Theory/Polarization.md",
     "Theory/Antenna Theory/Resonance.md",
@@ -187,9 +190,7 @@
     "Theory/Antenna Theory/Monopole Antenna.md",
     "Theory/Antenna Theory/Isotropic Antenna.md",
     "Theory/Antenna Theory/Different Types of Antennas.md",
-    "Theory/Antenna Theory/Common dB terms.md",
     "README.md",
-    "Superheterodyne Receiver/Superheterodyne Receiver.md",
     "Theory/Antenna Theory",
     "Theory",
     "Pictures folder/Pasted image 20250424235139.png",
@@ -203,7 +204,6 @@
     "Pictures folder/Pasted image 20250424002801.png",
     "Pictures folder/Pasted image 20250424002719.png",
     "Pictures folder",
-    "Documentation/Gitbash/How to use gitbash.md",
     "Documentation/Gitbash",
     "Documentation/Ansys/Course Provided for Transmission Lines/TransmissionLines_plus_quiz.aedtz",
     "Documentation/Ansys/Course Provided for Transmission Lines/Transmission Line Theory AER.pptx",
