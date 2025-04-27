@@ -1,0 +1,5 @@
+The mixer combines the incoming radio frequency signal with a signal from a [[Local Oscillator]] to produce new signals at different frequencies, specifically, the sum and difference of the two. Most of the time, the mixer is used to reduce the frequency to a lower intermediate frequency. This is done to make the signal easier to amplify, filter, and demodulate, and to avoid issues that commonly occur when working directly at high RF frequencies.
+
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeGAa-7JZWxdCeUEewFQcTSc059dB73Q-zOUzxMWG6vxaKVlqcSGK3nsaedB7BZxKk2tEvxeUe28KI5rbtkkNfBW2T-sn50dFFAK1FDjtvdFpRmaPhvS5d3znbEVhPEN9JB_3cuJA?key=G_9rsNHn_1fGu5XtvZSPkbk4)**
+
+This Produces two frequencies (sum and difference of the two frequencies going into the mixer) the higher frequency is filtered out in the [[IF Filter]] which in most cases is a bandpass filter. Due to it producing two frequencies, a second unwanted frequency (Image signal) will also have a frequency that overlaps, this should be filtered out in the [[RF Filter]].
