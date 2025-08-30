@@ -11,14 +11,12 @@
             "id": "c4d05a375688ee1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Superheterodyne Receiver/Components/Mixer.md",
-                "mode": "source",
-                "source": false
+                "file": "Others Thesis or IEEE papers/THE DESIGN AND CHARACTERIZATION OF AN ENHANCED REFERENCE TERMINAT.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Mixer"
+              "icon": "lucide-file-text",
+              "title": "THE DESIGN AND CHARACTERIZATION OF AN ENHANCED REFERENCE TERMINAT"
             }
           }
         ]
@@ -160,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,6 +169,8 @@
   },
   "active": "c4d05a375688ee1f",
   "lastOpenFiles": [
+    "Superheterodyne Receiver/Components/Mixer.md",
+    "Others Thesis or IEEE papers/THE DESIGN AND CHARACTERIZATION OF AN ENHANCED REFERENCE TERMINAT.pdf",
     "Superheterodyne Receiver/Components/Local Oscillator.md",
     "Superheterodyne Receiver/Components/IF Filter.md",
     "Superheterodyne Receiver/Components/IF Amplfier.md",
@@ -178,7 +179,6 @@
     "Superheterodyne Receiver/Components/RF Filter.md",
     "Superheterodyne Receiver/Superheterodyne Receiver.md",
     "Superheterodyne Receiver/Components/RF Amplifier (optional).md",
-    "Superheterodyne Receiver/Components/Mixer.md",
     "Theory/Antenna Theory/Common dB terms.md",
     "Documentation/Gitbash/How to use gitbash.md",
     "Theory/FM vs AM Radio.md",
@@ -211,7 +211,6 @@
     "Documentation/Ansys",
     "Documentation",
     "How to use gitbash.md",
-    "Altium Project/Receiver Rough Draft/__Previews/Superheterodyne Rough Draft.SchDocPreview",
     "Superheterodyne Receiver.md"
   ]
 }
