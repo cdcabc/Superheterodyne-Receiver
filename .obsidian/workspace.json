@@ -182,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0f2757e0123cb7e",
+  "active": "c3ad9bd4dc1caabd",
   "lastOpenFiles": [
+    "Others Thesis or IEEE papers/Rancang_Bangun_Antena_Yagi_2400_MHz_Untuk_Receiver.pdf",
     "Documentation/Manufacturing/JLC PCB Calculator.md",
     "Documentation/Manufacturing/Ordering Process.md",
     "Documentation/Advanced Design System (ADS)/Basics.md",
@@ -228,7 +229,6 @@
     "Documentation/Ansys/Course Provided for Transmission Lines/Transmission Line Theory AER.pptx",
     "Documentation/Ansys/Course Provided for Transmission Lines",
     "Documentation/Ansys",
-    "How to use gitbash.md",
-    "Superheterodyne Receiver.md"
+    "How to use gitbash.md"
   ]
 }
