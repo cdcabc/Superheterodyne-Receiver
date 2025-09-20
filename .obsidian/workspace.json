@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Advanced Design System (ADS)/Basics.md",
+                "file": "Documentation/Manufacturing/Ordering Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics"
+              "title": "Ordering Process"
             }
           }
         ],
@@ -182,11 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3ad9bd4dc1caabd",
+  "active": "f0f2757e0123cb7e",
   "lastOpenFiles": [
+    "Documentation/Manufacturing/JLC PCB Calculator.md",
+    "Documentation/Manufacturing/Ordering Process.md",
+    "Documentation/Advanced Design System (ADS)/Basics.md",
     "Recommended Textbooks/Understanding Digital Signal Processing (Third Edition) (Richard G. Lyons) (Z-Library).pdf",
     "Others Thesis or IEEE papers/THE DESIGN AND CHARACTERIZATION OF AN ENHANCED REFERENCE TERMINAT.pdf",
-    "Documentation/Advanced Design System (ADS)/Basics.md",
     "Superheterodyne Receiver/Components/Mixer.md",
     "Superheterodyne Receiver/Components/Local Oscillator.md",
     "Superheterodyne Receiver/Components/IF Filter.md",
@@ -226,7 +228,6 @@
     "Documentation/Ansys/Course Provided for Transmission Lines/Transmission Line Theory AER.pptx",
     "Documentation/Ansys/Course Provided for Transmission Lines",
     "Documentation/Ansys",
-    "Documentation",
     "How to use gitbash.md",
     "Superheterodyne Receiver.md"
   ]
